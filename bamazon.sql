@@ -34,5 +34,3 @@ VALUES  ('Chili', 'Grocery', 5, 10),
         ('Aux Cord', 'Electronics', 7.25, 20),
         ('Wireless Mouse', 'Electronics', 19.50, 10),
         ('Speakerbox', 'Electronics', 50, 30);
-
-SELECT * FROM inventory WHERE product_name = 'Laptop';

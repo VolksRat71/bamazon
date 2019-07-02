@@ -3,16 +3,16 @@ CREATE database bamazon_itemDB;
 
 USE bamazon_itemDB;
 
-CREATE TABLE inventory (
+CREATE TABLE products (
     item_id INT auto_increment,
     product_name VARCHAR (100),
     department_name VARCHAR (100),
     price DECIMAL (10,2),
     stock_quantity INT,
-    PRIMARY KEY (item_id),
+    PRIMARY KEY (item_id)
 );
 
-INSERT INTO inventory (product_name, department_name, price, stock_quantity)
+INSERT INTO products (product_name, department_name, price, stock_quantity)
 
 VALUES  ('Chili', 'Grocery', 5, 10), 
         ('Banana', 'Grocery', .25, 200),

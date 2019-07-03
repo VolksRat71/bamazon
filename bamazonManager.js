@@ -97,13 +97,13 @@ function displayLowInventory() {
 	// console.log('___ENTER displayLowInventory');
 
 	// Construct the db query string
-	queryStr = 'SELECT * FROM products WHERE stock_quantity < 100';
+	queryStr = 'SELECT * FROM products WHERE stock_quantity < 10';
 
 	// Make the db query
 	connection.query(queryStr, function(err, data) {
 		if (err) throw err;
 
-		console.log('Low Inventory Items (below 100): ');
+		console.log('Low Inventory Items (below 10): ');
 		console.log('................................\n');
 
 		var strOut = '';

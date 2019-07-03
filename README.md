@@ -12,8 +12,8 @@ That would all depend on if you are wanting to use the Customer or manager inter
 
 * Open Git Bash and go to the location that you want your Bamazon.
 * Type in following the follwing command...
-	
-	$ git clone https://github.com/VolksRat71/bamazon.git
+		
+		$git clone https://github.com/VolksRat71/bamazon.git
 
 **SQL Setup**
 

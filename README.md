@@ -11,9 +11,11 @@ That would all depend on if you are wanting to use the Customer or manager inter
 **CLI Setup**	
 
 * Open Git Bash and go to the location that you want your Bamazon.
-* Type in following the follwing command...
+* Type in following the following command...
 		
-		$git clone https://github.com/VolksRat71/bamazon.git
+		$ git clone https://github.com/VolksRat71/bamazon.git
+
+	![CLIsetup](/example_video/clone.webm)
 
 **SQL Setup**
 
@@ -21,11 +23,19 @@ That would all depend on if you are wanting to use the Customer or manager inter
 * Execute the code to create your database.
 
 
-There you go! You have a working version of the application. Decide which version you want to run, and the you will be prompted you selections. 
+👍 There you go! You have a working version of the application. Decide which version you want to run, and the you will be prompted your selections. Video following command example should be expected outputs from program.
 
 **FOR MANAGERS**
 
 	$ node bamazonManager.js
+
+	> View Products for Sale
+
+	> View Low Inventory
+
+	> Add to Inventory
+
+	> Add New Product
 
 
 **FOR CUSTOMERS**

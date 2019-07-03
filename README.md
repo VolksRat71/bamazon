@@ -13,11 +13,24 @@ That would all depend on if you are wanting to use the Customer or manager inter
 * Open Git Bash and go to the location that you want your Bamazon.
 * Type in following the follwing command...
 	
-	git clone https://github.com/VolksRat71/bamazon.git
+	$ git clone https://github.com/VolksRat71/bamazon.git
 
 **SQL Setup**
 
 * Open the "bamazon.sql" folder in your code editor and copy its contents into mySQL Workbench.
-* Exicute the code to create your database.
+* Execute the code to create your database.
+
+
+There you go! You have a working version of the application. Decide which version you want to run, and the you will be prompted you selections. 
+
+**FOR MANAGERS**
+
+	$ node bamazonManager.js
+
+
+**FOR CUSTOMERS**
+
+	$ node bamazonCustomer.js
+
 
 

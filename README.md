@@ -10,14 +10,14 @@ That would all depend on if you are wanting to use the Customer or manager inter
 
 **CLI Setup**	
 
-*Open Git Bash and go to the location that you want your Bamazon.
-*Type in following the follwing command...
+* Open Git Bash and go to the location that you want your Bamazon.
+* Type in following the follwing command...
 	
-	*git clone https://github.com/VolksRat71/bamazon.git
+	git clone https://github.com/VolksRat71/bamazon.git
 
 **SQL Setup**
 
-*Open the "bamazon.sql" folder in your code editor and copy its contents into mySQL Workbench.
-*Exicute the code to create your database.
+* Open the "bamazon.sql" folder in your code editor and copy its contents into mySQL Workbench.
+* Exicute the code to create your database.
 
 

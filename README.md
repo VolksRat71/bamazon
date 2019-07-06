@@ -33,25 +33,26 @@ That would all depend on if you are wanting to use the Customer or manager inter
 
 	> View Products for Sale
 
-	![ViewP](./example_video/view_products.gif)
+![ViewP](./example_video/view_products.gif)
 
 	> View Low Inventory
 
-	![ViewL](./example_video/view_low.gif)
+![ViewL](./example_video/view_low.gif)
 
 	> Add to Inventory
 
-	![AddI](./example_video/update_qty.gif)
+![AddI](./example_video/update_qty.gif)
 
 	> Add New Product
 
-	![AddP](./example_video/add.gif)
+![AddP](./example_video/add.gif)
 
 
 **FOR CUSTOMERS**
 
 	$ node bamazonCustomer.js
 
-	![CustomerV](./example_video/customer.gif)
+![CustomerV](./example_video/customer.gif)
 
+ðŸ‘
 

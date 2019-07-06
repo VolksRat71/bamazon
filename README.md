@@ -15,7 +15,7 @@ That would all depend on if you are wanting to use the Customer or manager inter
 		
 		$ git clone https://github.com/VolksRat71/bamazon.git
 
-	![CLIsetup](/example_video/clone.webm)
+	![CLIsetup](./example_video/clone.gif)
 
 **SQL Setup**
 
